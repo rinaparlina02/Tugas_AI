@@ -14,7 +14,7 @@ orangtua(david, liza).
 orangtua(david, john).
 orangtua(amy, liza).
 orangtua(amy, john).
-orangtua(jack, susanaan).
+orangtua(jack, susan).
 orangtua(jack, ray).
 orangtua(keren, susan).
 orangtua(keren, susan).
