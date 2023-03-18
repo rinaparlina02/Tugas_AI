@@ -17,7 +17,7 @@ orangtua(amy, john).
 orangtua(jack, susan).
 orangtua(jack, ray).
 orangtua(keren, susan).
-orangtua(keren, susan).
+orangtua(keren, ray).
 orangtua(john, peter).
 orangtua(john, mary).
 orangtua(susan, peter).
